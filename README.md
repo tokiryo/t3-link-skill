@@ -1,5 +1,7 @@
 # t3-link-skill
 
+[日本語](README_jp.md)
+
 Make one skill (and, optionally, one MCP server) available to every agent harness registered in
 [T3 Code](https://github.com/pingdotgg/t3code): Claude Code, Codex, each Pi instance, Antigravity, OpenCode and fx.
 An allow list or deny list leaves out the instances you choose.
