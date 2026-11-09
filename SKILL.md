@@ -1,6 +1,6 @@
 ---
 name: t3-link-skill
-description: Link a skill folder (and, with --mcp, an MCP server) into the user skills folder of every harness registered in T3 Code (Claude Code, Codex, each Pi instance, Antigravity, OpenCode, fx), with an all / allow-list / deny-list filter in config.json. Use when the user asks to make a skill available to the T3 harnesses, e.g. "このスキルを全ハーネスにリンクして", "t3のハーネスにスキルを入れて", "スキルを他のエージェントでも使えるようにして", "link this skill to all agents".
+description: Link a skill folder (and, with --mcp, an MCP server) into the user skills folder of every harness registered in T3 Code (Claude Code, Codex, every Pi setup, Antigravity, OpenCode, fx), with an all / allow-list / deny-list filter in config.json. Use when the user asks to make a skill available to the T3 harnesses, e.g. "このスキルを全ハーネスにリンクして", "t3のハーネスにスキルを入れて", "スキルを他のエージェントでも使えるようにして", "link this skill to all agents".
 ---
 
 # t3-link-skill
